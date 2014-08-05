@@ -2,7 +2,7 @@
 ## Build
 
 ```bash
-sudo docker build -t="dsgrid/chrome" chrome # chrome is reference to this directory
+sudo docker build -t="dsgrid/chrome-node" chrome # chrome is reference to this directory
 ```
 ## Usage
 ```bash
