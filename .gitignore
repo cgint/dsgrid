@@ -3,3 +3,5 @@
 build/*
 dist/*
 dsgrid.egg-info/*
+/.settings/
+/.project
